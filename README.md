@@ -70,7 +70,7 @@ Contributions are welcome! Follow these steps:
 
 ## Author 👨‍💻
 **Dhriti Sharma**
-- GitHub: [@sharmadhriti007](https://github.com/sharmadhriti007)
-- LinkedIn: [Dhriti Sharma](https://www.linkedin.com/in/dhriti-sharma10/)
+- GitHub: [@Hemanthponnam007](https://github.com/Hemanthponnam007)
+- LinkedIn: [Hemanth Ponnam](https://www.linkedin.com/in/hemanth-ponnam07/)
 
 
